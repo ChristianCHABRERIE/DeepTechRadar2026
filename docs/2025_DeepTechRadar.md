@@ -1,3 +1,4 @@
+```markmap
 # 2025 DeepTech Radar
   - Tech Trends
     - Hype Curve / Gatner
@@ -1275,4 +1276,5 @@ Le Ducros qui se décarcasse apprécie toujours (olivier (arrob) oezratty.net).
       - 9
         - 23
           - Big
+```
             - https://big.bpifrance.fr/fr
