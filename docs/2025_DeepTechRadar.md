@@ -1,6 +1,6 @@
 ```markmap
 # 2025 DeepTech Radar
-  - Tech Trends
+  - Tech Trends <!-- markmap: foldAll -->
     - Hype Curve / Gatner
       - 2024
         - https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security
@@ -78,7 +78,7 @@ https://codeforces.com/ratings/page/1
           - AliGenie
         - Tencent
           - Hunyuan
-  - Ressources
+  - Ressources <!-- markmap: foldAll -->
     - Web
       - V1 of this MindMap
         - Online
@@ -124,7 +124,7 @@ https://codeforces.com/ratings/page/1
       - Ai
         - https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf
           - Mistral
-  - Tech Shows
+  - Tech Shows <!-- markmap: foldAll -->
     - Sorted by Number of Visitors
       - Worlwide
         - #1
@@ -224,7 +224,7 @@ Hong Kong
             - https://hongkong2024.wowsummit.net/
         - Source
           - https://www.travelperk.com/blog/biggest-tech-conferences-in-the-world/
-  - CES
+  - CES <!-- markmap: foldAll -->
     - 2025
       - Awards
         - https://www.ces.tech/ces-innovation-awards/2025/
@@ -298,7 +298,7 @@ Hong Kong
           - Parkinson
             - Gyrogear (UK) 
               - https://gyrogear.co/
-  - Education
+  - Education <!-- markmap: foldAll -->
     - EPITA
       - https://www.epita.fr/
         - https://www.epita.fr/ecole-ingenieurs/notre-palmares/
@@ -463,7 +463,7 @@ Airbus
           - BUG ?
             - site:www.lre.epita.fr/thesis/
             - thesis site:www.lre.epita.fr
-  - Startups Radar
+  - Startups Radar <!-- markmap: foldAll -->
     - Liste des Exposants / France
       - Source
         - https://media.businessfrance.fr/actualites/business-france-accompagne-la-deuxieme-plus-importante-delegation-etrangere-au-ces-de-las-vegas-46f07-0fea0.html
