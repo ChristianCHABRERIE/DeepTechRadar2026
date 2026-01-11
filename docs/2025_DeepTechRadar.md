@@ -1219,7 +1219,7 @@ Le Ducros qui se décarcasse apprécie toujours (olivier (arrob) oezratty.net).
         - https://www.oezratty.net/wordpress/2021/usages-intelligence-artificielle-2021/usages-ia-2021-cover/
       - Startups
         - https://www.oezratty.net/wordpress/telecharger/publications/guide-des-startups-2019-cover/
-  - Coming Events
+  - Coming Events <!-- markmap: foldAll -->
     - Back from CES
       - 20250115
         - HEC
