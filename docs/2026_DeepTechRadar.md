@@ -1,7 +1,13 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 ```markmap
 ---
 markmap:
-  initialExpandLevel: 2
+  initialExpandLevel: 3
   spacingVertical: 20
   spacingHorizontal: 100
 ---
