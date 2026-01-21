@@ -1,7 +1,14 @@
+---
+markmap:
+  initialExpandLevel: 2
+  spacingVertical: 20
+  spacingHorizontal: 100
+---
+
 ```markmap
 
 # DeepTech Radar
-  - Tech Trends  <!-- markmap: foldAll -->
+  - Tech Trends
     - Hype Curve / Gatner
       - 2024
         - https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security
@@ -79,7 +86,7 @@ https://codeforces.com/ratings/page/1
           - AliGenie
         - Tencent
           - Hunyuan
-  - Ressources  <!-- markmap: foldAll -->
+  - Ressources
     - Web
       - V1 of this MindMap
         - Online
@@ -134,7 +141,7 @@ https://codeforces.com/ratings/page/1
       - Ai
         - https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf
           - Mistral
-  - Tech Shows  <!-- markmap: foldAll -->
+  - Tech Shows
     - Sorted by Number of Visitors
       - Worldwide
         - #1
@@ -243,7 +250,7 @@ Hong Kong
                     - https://hongkong2024.wowsummit.net/
                 - Source
                   - https://www.travelperk.com/blog/biggest-tech-conferences-in-the-world/
-  - CES  <!-- markmap: foldAll -->
+  - CES
     - 2026
       - Resume
         - Posts
@@ -1107,7 +1114,7 @@ Wynn, Meeting Rooms — Reims
           - Parkinson
             - Gyrogear (UK) 
               - https://gyrogear.co/
-  - Education  <!-- markmap: foldAll -->
+  - Education
     - Engineering Schools
       - https://www.usinenouvelle.com/comparatif-des-ecoles-d-ingenieurs/
       - https://etudiant.lefigaro.fr/etudes/ecoles-ingenieurs/classement/
@@ -1370,7 +1377,7 @@ Airbus
           - Pitié Salpétrière
             - https://www.aphp.fr/dr-saiydoun-gabriel
               - https://www.linkedin.com/in/gabriel-saiydoun-md-phd-b1079624a/
-  - Startups Radar  <!-- markmap: foldAll -->
+  - Startups Radar
     - Liste des Exposants / France
       - 2026
         - WiThings
@@ -2144,7 +2151,7 @@ Le Ducros qui se décarcasse apprécie toujours (olivier (arrob) oezratty.net).
         - https://www.oezratty.net/wordpress/2021/usages-intelligence-artificielle-2021/usages-ia-2021-cover/
       - Startups
         - https://www.oezratty.net/wordpress/telecharger/publications/guide-des-startups-2019-cover/
-  - Coming Events  <!-- markmap: foldAll -->
+  - Coming Events
     - 2026
       - CES 2026
         - Back from CES
