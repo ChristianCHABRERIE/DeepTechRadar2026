@@ -1,11 +1,10 @@
+```markmap
 ---
 markmap:
   initialExpandLevel: 2
   spacingVertical: 20
   spacingHorizontal: 100
 ---
-
-```markmap
 
 # DeepTech Radar
   - Tech Trends
