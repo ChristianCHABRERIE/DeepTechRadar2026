@@ -1,5 +1,5 @@
-site_name: My Digital Brain
-site_url: https://Lucien-MG.github.io/mind-map-colab-template/
+site_name: DeepTechRadar2026
+site_url: https://christianchabrerie.github.io/DeepTechRadar2026/
 
 theme:
   name: material
@@ -10,15 +10,13 @@ plugins:
   - search
 
 markdown_extensions:
-  # ⚠️ THIS SECTION IS CRITICAL ⚠️
-  # It tells MkDocs: "Do not format markmap blocks. Pass them as raw HTML."
   - pymdownx.superfences:
       custom_fences:
         - name: markmap
           class: markmap
           format: !!python/name:pymdownx.superfences.fence_div_format
 
-# Load the visualization engine from the web (No plugin needed)
+# Load the visualization engine from the web
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/markmap-autoloader@0.17.0/dist/index.js
 
