@@ -1,0 +1,25 @@
+/* Make the Markmap container larger */
+.markmap {
+    position: fixed;
+    top: 3rem;
+    /* Fallback for header height */
+    top: var(--md-header-height);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: calc(100vh - 3rem);
+    /* Fallback */
+    height: calc(100vh - var(--md-header-height));
+    z-index: 1;
+    /* Ensure it sits above standard content but below overlaid menus */
+    margin: 0 !important;
+    border: none;
+    background-color: var(--md-default-bg-color);
+}
+
+/* Ensure the SVG fills the container */
+.markmap svg {
+    width: 100%;
+    height: 100%;
+}
