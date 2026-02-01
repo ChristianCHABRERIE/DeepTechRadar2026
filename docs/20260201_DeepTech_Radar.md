@@ -1,5 +1,5 @@
 # DeepTech Radar
-  - Tech Trends
+  - Tech Trends  <!-- markmap: foldAll -->
     - Hype Curve / Gatner
       - 2024
         - https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security
@@ -77,7 +77,7 @@ https://codeforces.com/ratings/page/1
           - AliGenie
         - Tencent
           - Hunyuan
-  - Ressources
+  - Ressources  <!-- markmap: foldAll -->
     - Web
       - V1 of this MindMap
         - Online
@@ -171,7 +171,7 @@ https://codeforces.com/ratings/page/1
             - https://www.linkedin.com/in/kevin-murphy-20684115/
         - https://probml.github.io/pml-book/book1.html
         - https://probml.github.io/pml-book/book2.html
-  - Tech Shows
+  - Tech Shows  <!-- markmap: foldAll -->
     - Sorted by Number of Visitors
       - Worldwide
         - #1
@@ -289,7 +289,7 @@ Hong Kong
                     - https://hongkong2024.wowsummit.net/
                 - Source
                   - https://www.travelperk.com/blog/biggest-tech-conferences-in-the-world/
-  - Education
+  - Education  <!-- markmap: foldAll -->
     - Engineering Schools
       - https://www.usinenouvelle.com/comparatif-des-ecoles-d-ingenieurs/
       - https://etudiant.lefigaro.fr/etudes/ecoles-ingenieurs/classement/
@@ -552,7 +552,7 @@ Airbus
           - Pitié Salpétrière
             - https://www.aphp.fr/dr-saiydoun-gabriel
               - https://www.linkedin.com/in/gabriel-saiydoun-md-phd-b1079624a/
-  - 2026
+  - 2026  <!-- markmap: foldAll -->
     - CES
       - 2026
         - Resume
@@ -1741,7 +1741,7 @@ Wynn, Meeting Rooms — Reims
           - Genie 3
             - https://www.linkedin.com/posts/googledeepmind_project-genie-experimenting-with-infinite-ugcPost-7422685964877291520-IK4J
             - Are Video Games dead ?
-  - Startups Radar
+  - Startups Radar  <!-- markmap: foldAll -->
     - Liste des Exposants / France
       - 2026
         - WiThings
@@ -2515,7 +2515,7 @@ Le Ducros qui se décarcasse apprécie toujours (olivier (arrob) oezratty.net).
         - https://www.oezratty.net/wordpress/2021/usages-intelligence-artificielle-2021/usages-ia-2021-cover/
       - Startups
         - https://www.oezratty.net/wordpress/telecharger/publications/guide-des-startups-2019-cover/
-  - Coming Events
+  - Coming Events  <!-- markmap: foldAll -->
     - 2026
       - CES 2026
         - Back from CES
