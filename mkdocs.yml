@@ -18,10 +18,14 @@ markdown_extensions:
 
 # Load the visualization engine from the web
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/markmap-autoloader@0.17.0/dist/index.js
+  - https://cdn.jsdelivr.net/npm/d3@7
+  - https://cdn.jsdelivr.net/npm/markmap-lib@0.17.0/dist/browser/index.min.js
+  - https://cdn.jsdelivr.net/npm/markmap-view@0.17.0/dist/index.min.js
+  - https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.0/dist/index.min.js
+  - javascripts/markmap-loader.js
 
 extra_css:
-  - https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.0/dist/style.css
+  - https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.0/dist/style.min.css
   - stylesheets/extra.css
 
 
